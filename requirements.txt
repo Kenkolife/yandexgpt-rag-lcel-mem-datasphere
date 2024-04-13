@@ -1,0 +1,7 @@
+yandex-chain
+yandexcloud
+opensearch-py
+pypdf
+langchain-community
+langchain-text-splitters
+PyJWT
